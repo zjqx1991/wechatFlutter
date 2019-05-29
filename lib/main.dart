@@ -22,9 +22,11 @@ class RootApp extends StatelessWidget {
 }
 
 final ThemeData revanDefaultTHeme = ThemeData(
-//  highlightColor: Color.fromRGBO(24, 186, 0, 1.0),
-//  primaryColor: Color.fromRGBO(232, 232, 232, 1.0),
+  //点击按钮的颜色
+  //highlightColor: Color.fromRGBO(24, 186, 0, 1.0),
+  //primaryColor: Color.fromRGBO(232, 232, 232, 1.0),
+//  primaryColor: Colors.red,
 //  scaffoldBackgroundColor: Color(0xFFebebeb),
 //  cardColor: Color.fromRGBO(232, 0, 232, 1.0),
-
+//  primaryColor: Colors.black
 );
