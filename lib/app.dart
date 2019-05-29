@@ -61,7 +61,9 @@ class AppPageState extends State<AppPage> {
         return _personalPage;
       }
       break;
+      default:{
 
+      }
     }
   }
 
@@ -74,7 +76,6 @@ class AppPageState extends State<AppPage> {
 
   //tabBar
   List<BottomNavigationBarItem> bottomList = [
-
     BottomNavigationBarItem(
       icon: Icon(
         Icons.message,
